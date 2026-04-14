@@ -1,0 +1,1 @@
+EXEC sp_load_community2_jobs;

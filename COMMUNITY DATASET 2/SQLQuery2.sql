@@ -1,0 +1,2 @@
+-- Question:
+-- How many people are employed per job type?
